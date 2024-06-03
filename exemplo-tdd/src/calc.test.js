@@ -1,4 +1,4 @@
-var add = require('./Calc')
+import { add } from "./Calc" 
 
 // calculadora
 describe('calculator', () => {
